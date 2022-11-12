@@ -5,16 +5,16 @@
 
 <template>
     <div class=" w-3/4 mx-auto mt-10  shadow-lg h-screen">
-        <header class="p-4 flex justify-center orange-pink h-40 rounded">
+        <header class="p-4 flex justify-betweem orange-pink h-40 rounded">
             <div class="flex space-y-4 items-center">
                 <img src="/logocdg.png" alt="" class="w-24 mr-4">
-                <h1 class="text-white text-4xl">Welcome to the gentlemen's club</h1>
+                <h1 class="text-white text-2xl md:text-4xl">Welcome to the gentlemen's club</h1>
             </div>
         </header>
 
-        <div class="flex mt-10 space-x-10 text-white rounded  p-4 white-opac orange-yellow">
+        <div class="md:flex mt-10 md:space-x-10 text-white rounded p-4 white-opac orange-yellow">
             <div class="">
-                <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <p class="max-sm:mb-10">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
             </div>
             <div class="">
@@ -23,9 +23,9 @@
             </div>
 
         </div>
-        <div class="flex mt-10 space-x-10 text-white rounded  p-4 white-opac yellow-red">
+        <div class="md:flex mt-10 md:space-x-10 text-white rounded p-4 white-opac yellow-red">
             <div class="">
-                <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <p class="max-sm:mb-10">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
             </div>
             <div class="">
