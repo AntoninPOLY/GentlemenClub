@@ -7,7 +7,7 @@
     <div class=" w-3/4 mx-auto mt-10  shadow-lg h-screen">
         <header class="p-4 flex justify-center orange-pink h-40 rounded">
             <div class="flex space-y-4 items-center">
-                <img src="logocdg.png" alt="" class="w-24 mr-4">
+                <img src="/logocdg.png" alt="" class="w-24 mr-4">
                 <h1 class="text-white text-4xl">Welcome to the gentlemen's club</h1>
             </div>
         </header>
